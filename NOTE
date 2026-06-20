@@ -1,0 +1,14 @@
+ API keys would have to be renewed/message me for the API keys.
+ 
+ Text Model files are too large to be uploaded onto Github, so attaching a google drive linke through which they can be downloaded.
+ 
+ Once Downloaded, place both (the bert_lstm_end2end folder, as well as the bert_lstm_ifnd.pth file) in capstone_fusion/text_model directory.
+ 
+ Model access directories in respective code files will have to be updated.
+
+ Zip File for the Entire Project :-
+ 
+
+ Text Model Files :- 
+ https://drive.google.com/drive/folders/1UlH98dFf0LPalB4jCPci7faqUox5vPBt?usp=sharing
+ 
