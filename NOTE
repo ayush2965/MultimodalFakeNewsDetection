@@ -1,4 +1,4 @@
- API keys would have to be renewed/message me for the API keys.
+ API keys would have to be renewed/message me for the API keys/bot tokens.
  
  Text Model files are too large to be uploaded onto Github, so attaching a google drive linke through which they can be downloaded.
  
@@ -12,3 +12,9 @@
  Text Model Files :- 
  https://drive.google.com/drive/folders/1UlH98dFf0LPalB4jCPci7faqUox5vPBt?usp=sharing
  
+Run Backend Server :
+python -m uvicorn api_wrapper:app --reload
+
+Run webhook.py for Discord Bot.
+
+npm run dev in Frontend for web application.
